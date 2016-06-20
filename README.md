@@ -1,2 +1,3 @@
-gingham-bistro-website
-======================
+# Gingham Bistro Website
+
+A Bootstrap prototype
